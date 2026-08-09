@@ -47,6 +47,10 @@ The project uses Excel, SQL, and Power BI to perform data cleaning, analysis, an
 - `PowerBI` – Power BI dashboard
 - `Screenshots` – Dashboard screenshots
 
+- ## 📊 Power BI Dashboard
+
+![Sales Dashboard](sales_dashboard.png)
+
 ## 💡 Key Insights
 
 Insights will be added after completing the analysis and dashboard.
